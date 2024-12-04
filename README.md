@@ -26,5 +26,9 @@ Refer to the `NN_run.ipynb` notebook for detailed examples and usage instruction
 
 This project is licensed under the MIT License 
 
+## Citation
+If this repository is useful for you, consider cite
+[in prep] 
+
 ## References
 Read, J. S., Lackey, B. D., Owen, B. J., & Friedman, J. L. (2009). Constraints on a phenomenologically parametrized neutron-star equation of state. Physical Review D—Particles, Fields, Gravitation, and Cosmology, 79(12), 124032.
