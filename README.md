@@ -11,7 +11,7 @@ This repository contains a neural network (NN) model for predicting neutron star
 - **NN_run.ipynb**: Jupyter Notebook with examples of how to use the neural network.
 
 ## Data
-**nsmassrad.txt** contains observed mass and radius data from observations. See [1] for reference.
+**nsmassrad.txt** contains observed mass and radius data for inference. See [1] for reference.
 All CSV files in this repository contain mass-radius data calculated using the RK4 method.
 
 ## Usage
