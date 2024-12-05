@@ -1,4 +1,4 @@
-# Neural Network for Mass-Radius Prediction
+# Neural Network for Neutron Star Mass-Radius Prediction
 
 This repository contains a neural network (NN) model for predicting neutron star mass-radius relationships from piecewise polytropic EoS from Read+ 2008.
 
